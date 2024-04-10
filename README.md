@@ -1,5 +1,5 @@
 # Magic balls
-* full code and report - code_report.ipynb
+* Full code and report - code_report.ipynb
 # Overall Strategy
 ![alt text](docs/pipeline.jpg "Title")
 
