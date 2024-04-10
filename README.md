@@ -12,13 +12,13 @@ The main idea was to make a model as simple as possible without the complication
 * Step 5 - For postprocessing, I converted the bounding boxes to circles.
 
 # Datastes and requirements
-'''
+```
 kaggle datasets download -d balraj98/stanford-background-dataset & unzip stanford-background-dataset -d stanford-background-dataset
 pip install -U ultralytics
 pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 pip install numpy opencv-python 
 pip install ensemble-boxes
-'''
+```
 # Conclusions
 * According to the plot above, you can see that all the magic balls were found, and no other ball was identified as a magic ball.
 * Apart from one image (MVC-008F.JPG), the bounding box around the magic ball is pretty accurate.
