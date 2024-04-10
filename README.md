@@ -30,5 +30,5 @@ pip install ensemble-boxes
 ![alt text](results/challenge_image.png "challenge_image.png")
 
 * The average processing time for one image is 70 milliseconds, while the whole test set of images took 1.12 seconds to process.
-
+* It is possible to improve the performance dramatically and also make the model better for additional examples by retraining and creating new data using the results of the model (pseudo-labeling). However, I didn't do this because I have no way to measure the quality of the model after this process, as I don't have any more test pictures.
   
