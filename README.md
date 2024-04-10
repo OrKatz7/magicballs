@@ -1,4 +1,4 @@
-# magic balls
+# Magic balls
 # Overall Strategy
 ![alt text](docs/pipeline.jpg "Title")
 
