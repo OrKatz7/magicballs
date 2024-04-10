@@ -19,6 +19,8 @@ pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f htt
 pip install numpy opencv-python 
 pip install ensemble-boxes
 ```
+# Results
+![alt text](docs/plot.jpg "MVC-008F")
 # Conclusions
 * According to the plot above, you can see that all the magic balls were found, and no other ball was identified as a magic ball.
 * Apart from one image (MVC-008F.JPG), the bounding box around the magic ball is pretty accurate.
