@@ -22,7 +22,7 @@ The main idea was to make a model as simple as possible without the complication
 * According to the plot above, you can see that all the magic balls were found, and no other ball was identified as a magic ball.
 * Apart from one image (MVC-008F.JPG), the bounding box around the magic ball is pretty accurate.
 
-![alt text](results/MVC-008F.JPG "MVC-008F")
+![alt text](results/MVC-008F.jpeg "MVC-008F")
 
 * The model handles a manipulated image well (bonus).
 
